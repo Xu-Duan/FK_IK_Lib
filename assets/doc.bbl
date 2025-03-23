@@ -1,0 +1,365 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{ik}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b9b5b7e8f7468b26986e3dd2e81d32b3}{%
+           family={Buss},
+           familyi={B\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b9b5b7e8f7468b26986e3dd2e81d32b3}
+      \strng{fullhash}{b9b5b7e8f7468b26986e3dd2e81d32b3}
+      \strng{fullhashraw}{b9b5b7e8f7468b26986e3dd2e81d32b3}
+      \strng{bibnamehash}{b9b5b7e8f7468b26986e3dd2e81d32b3}
+      \strng{authorbibnamehash}{b9b5b7e8f7468b26986e3dd2e81d32b3}
+      \strng{authornamehash}{b9b5b7e8f7468b26986e3dd2e81d32b3}
+      \strng{authorfullhash}{b9b5b7e8f7468b26986e3dd2e81d32b3}
+      \strng{authorfullhashraw}{b9b5b7e8f7468b26986e3dd2e81d32b3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions in Robotics and Automation}
+      \field{month}{05}
+      \field{title}{Introduction to inverse kinematics with Jacobian transpose, pseudoinverse and damped least squares methods}
+      \field{volume}{17}
+      \field{year}{2004}
+    \endentry
+    \entry{franka_emika_2017}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6898f7ad5b3b2cb5ec5b9439cdcb6bf3}{%
+           family={GmbH},
+           familyi={G\bibinitperiod},
+           given={Franka\bibnamedelima Emika},
+           giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6898f7ad5b3b2cb5ec5b9439cdcb6bf3}
+      \strng{fullhash}{6898f7ad5b3b2cb5ec5b9439cdcb6bf3}
+      \strng{fullhashraw}{6898f7ad5b3b2cb5ec5b9439cdcb6bf3}
+      \strng{bibnamehash}{6898f7ad5b3b2cb5ec5b9439cdcb6bf3}
+      \strng{authorbibnamehash}{6898f7ad5b3b2cb5ec5b9439cdcb6bf3}
+      \strng{authornamehash}{6898f7ad5b3b2cb5ec5b9439cdcb6bf3}
+      \strng{authorfullhash}{6898f7ad5b3b2cb5ec5b9439cdcb6bf3}
+      \strng{authorfullhashraw}{6898f7ad5b3b2cb5ec5b9439cdcb6bf3}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://frankaemika.github.io/docs/control_parameters.html}}
+      \field{note}{Accessed: Mar. 23, 2025}
+      \field{title}{Robot and Interface Specifications: {Franka Control Interface (FCI)} Documentation}
+      \field{year}{2017}
+    \endentry
+    \entry{Hepanda}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7176f97a286ea6b409b715beea1040b2}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Yanhao},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58fe66045c679ab9591f18db5fd74096}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c57ef64f5857a40cb3c77a554c3e9e7}
+      \strng{fullhash}{9c57ef64f5857a40cb3c77a554c3e9e7}
+      \strng{fullhashraw}{9c57ef64f5857a40cb3c77a554c3e9e7}
+      \strng{bibnamehash}{9c57ef64f5857a40cb3c77a554c3e9e7}
+      \strng{authorbibnamehash}{9c57ef64f5857a40cb3c77a554c3e9e7}
+      \strng{authornamehash}{9c57ef64f5857a40cb3c77a554c3e9e7}
+      \strng{authorfullhash}{9c57ef64f5857a40cb3c77a554c3e9e7}
+      \strng{authorfullhashraw}{9c57ef64f5857a40cb3c77a554c3e9e7}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2021 9th International Conference on Control, Mechatronics and Automation (ICCMA)}
+      \field{title}{Analytical Inverse Kinematics for Franka Emika Panda – a Geometrical Solver for 7-DOF Manipulators with Unconventional Design}
+      \field{year}{2021}
+      \field{pages}{194\bibrangedash 199}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICCMA54375.2021.9646185
+      \endverb
+      \keyw{Wrist;Geometry;Mechatronics;Trajectory planning;Kinematics;Switches;Real-time systems;Robotics;Inverse Kinematics;Redundant Manipulator}
+    \endentry
+    \entry{Lynch_Park_2017}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ab9086b1452a1a9813fc6765151b4f61}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={Kevin\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=66f19f2d439b6eb60c024ab622b0389f}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Frank\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{8d01efb70f6cec86f711e78e22f97a48}
+      \strng{fullhash}{8d01efb70f6cec86f711e78e22f97a48}
+      \strng{fullhashraw}{8d01efb70f6cec86f711e78e22f97a48}
+      \strng{bibnamehash}{8d01efb70f6cec86f711e78e22f97a48}
+      \strng{authorbibnamehash}{8d01efb70f6cec86f711e78e22f97a48}
+      \strng{authornamehash}{8d01efb70f6cec86f711e78e22f97a48}
+      \strng{authorfullhash}{8d01efb70f6cec86f711e78e22f97a48}
+      \strng{authorfullhashraw}{8d01efb70f6cec86f711e78e22f97a48}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modern Robotics: Mechanics, Planning, and Control}
+      \field{year}{2017}
+    \endentry
+    \entry{Tittelpanda}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=364c936e60fb45b89b330f7f3efa70b0}{%
+           family={Tittel},
+           familyi={T\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{364c936e60fb45b89b330f7f3efa70b0}
+      \strng{fullhash}{364c936e60fb45b89b330f7f3efa70b0}
+      \strng{fullhashraw}{364c936e60fb45b89b330f7f3efa70b0}
+      \strng{bibnamehash}{364c936e60fb45b89b330f7f3efa70b0}
+      \strng{authorbibnamehash}{364c936e60fb45b89b330f7f3efa70b0}
+      \strng{authornamehash}{364c936e60fb45b89b330f7f3efa70b0}
+      \strng{authorfullhash}{364c936e60fb45b89b330f7f3efa70b0}
+      \strng{authorfullhashraw}{364c936e60fb45b89b330f7f3efa70b0}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2021 20th International Conference on Advanced Robotics (ICAR)}
+      \field{title}{Analytical Solution for the Inverse Kinematics Problem of the Franka Emika Panda Seven-DOF Light-Weight Robot Arm}
+      \field{year}{2021}
+      \field{pages}{1042\bibrangedash 1047}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICAR53236.2021.9659393
+      \endverb
+      \keyw{Geometry;Redundancy;Human-robot interaction;Kinematics;Machine learning;C++ languages;Manipulators}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{ik}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b9b5b7e8f7468b26986e3dd2e81d32b3}{%
+           family={Buss},
+           familyi={B\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b9b5b7e8f7468b26986e3dd2e81d32b3}
+      \strng{fullhash}{b9b5b7e8f7468b26986e3dd2e81d32b3}
+      \strng{fullhashraw}{b9b5b7e8f7468b26986e3dd2e81d32b3}
+      \strng{bibnamehash}{b9b5b7e8f7468b26986e3dd2e81d32b3}
+      \strng{authorbibnamehash}{b9b5b7e8f7468b26986e3dd2e81d32b3}
+      \strng{authornamehash}{b9b5b7e8f7468b26986e3dd2e81d32b3}
+      \strng{authorfullhash}{b9b5b7e8f7468b26986e3dd2e81d32b3}
+      \strng{authorfullhashraw}{b9b5b7e8f7468b26986e3dd2e81d32b3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions in Robotics and Automation}
+      \field{month}{05}
+      \field{title}{Introduction to inverse kinematics with Jacobian transpose, pseudoinverse and damped least squares methods}
+      \field{volume}{17}
+      \field{year}{2004}
+    \endentry
+    \entry{franka_emika_2017}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6898f7ad5b3b2cb5ec5b9439cdcb6bf3}{%
+           family={GmbH},
+           familyi={G\bibinitperiod},
+           given={Franka\bibnamedelima Emika},
+           giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6898f7ad5b3b2cb5ec5b9439cdcb6bf3}
+      \strng{fullhash}{6898f7ad5b3b2cb5ec5b9439cdcb6bf3}
+      \strng{fullhashraw}{6898f7ad5b3b2cb5ec5b9439cdcb6bf3}
+      \strng{bibnamehash}{6898f7ad5b3b2cb5ec5b9439cdcb6bf3}
+      \strng{authorbibnamehash}{6898f7ad5b3b2cb5ec5b9439cdcb6bf3}
+      \strng{authornamehash}{6898f7ad5b3b2cb5ec5b9439cdcb6bf3}
+      \strng{authorfullhash}{6898f7ad5b3b2cb5ec5b9439cdcb6bf3}
+      \strng{authorfullhashraw}{6898f7ad5b3b2cb5ec5b9439cdcb6bf3}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://frankaemika.github.io/docs/control_parameters.html}}
+      \field{note}{Accessed: Mar. 23, 2025}
+      \field{title}{Robot and Interface Specifications: {Franka Control Interface (FCI)} Documentation}
+      \field{year}{2017}
+    \endentry
+    \entry{Hepanda}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7176f97a286ea6b409b715beea1040b2}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Yanhao},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58fe66045c679ab9591f18db5fd74096}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c57ef64f5857a40cb3c77a554c3e9e7}
+      \strng{fullhash}{9c57ef64f5857a40cb3c77a554c3e9e7}
+      \strng{fullhashraw}{9c57ef64f5857a40cb3c77a554c3e9e7}
+      \strng{bibnamehash}{9c57ef64f5857a40cb3c77a554c3e9e7}
+      \strng{authorbibnamehash}{9c57ef64f5857a40cb3c77a554c3e9e7}
+      \strng{authornamehash}{9c57ef64f5857a40cb3c77a554c3e9e7}
+      \strng{authorfullhash}{9c57ef64f5857a40cb3c77a554c3e9e7}
+      \strng{authorfullhashraw}{9c57ef64f5857a40cb3c77a554c3e9e7}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2021 9th International Conference on Control, Mechatronics and Automation (ICCMA)}
+      \field{title}{Analytical Inverse Kinematics for Franka Emika Panda – a Geometrical Solver for 7-DOF Manipulators with Unconventional Design}
+      \field{year}{2021}
+      \field{pages}{194\bibrangedash 199}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICCMA54375.2021.9646185
+      \endverb
+      \keyw{Wrist;Geometry;Mechatronics;Trajectory planning;Kinematics;Switches;Real-time systems;Robotics;Inverse Kinematics;Redundant Manipulator}
+    \endentry
+    \entry{Lynch_Park_2017}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ab9086b1452a1a9813fc6765151b4f61}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={Kevin\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=66f19f2d439b6eb60c024ab622b0389f}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Frank\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{8d01efb70f6cec86f711e78e22f97a48}
+      \strng{fullhash}{8d01efb70f6cec86f711e78e22f97a48}
+      \strng{fullhashraw}{8d01efb70f6cec86f711e78e22f97a48}
+      \strng{bibnamehash}{8d01efb70f6cec86f711e78e22f97a48}
+      \strng{authorbibnamehash}{8d01efb70f6cec86f711e78e22f97a48}
+      \strng{authornamehash}{8d01efb70f6cec86f711e78e22f97a48}
+      \strng{authorfullhash}{8d01efb70f6cec86f711e78e22f97a48}
+      \strng{authorfullhashraw}{8d01efb70f6cec86f711e78e22f97a48}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modern Robotics: Mechanics, Planning, and Control}
+      \field{year}{2017}
+    \endentry
+    \entry{Tittelpanda}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=364c936e60fb45b89b330f7f3efa70b0}{%
+           family={Tittel},
+           familyi={T\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{364c936e60fb45b89b330f7f3efa70b0}
+      \strng{fullhash}{364c936e60fb45b89b330f7f3efa70b0}
+      \strng{fullhashraw}{364c936e60fb45b89b330f7f3efa70b0}
+      \strng{bibnamehash}{364c936e60fb45b89b330f7f3efa70b0}
+      \strng{authorbibnamehash}{364c936e60fb45b89b330f7f3efa70b0}
+      \strng{authornamehash}{364c936e60fb45b89b330f7f3efa70b0}
+      \strng{authorfullhash}{364c936e60fb45b89b330f7f3efa70b0}
+      \strng{authorfullhashraw}{364c936e60fb45b89b330f7f3efa70b0}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2021 20th International Conference on Advanced Robotics (ICAR)}
+      \field{title}{Analytical Solution for the Inverse Kinematics Problem of the Franka Emika Panda Seven-DOF Light-Weight Robot Arm}
+      \field{year}{2021}
+      \field{pages}{1042\bibrangedash 1047}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICAR53236.2021.9659393
+      \endverb
+      \keyw{Geometry;Redundancy;Human-robot interaction;Kinematics;Machine learning;C++ languages;Manipulators}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
